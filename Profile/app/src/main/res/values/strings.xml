@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile</string>4
+    <string name="name">Rafał Rybowski</string>
+    <string name="phone">535 799 529</string>
+    <string name="mail">rafalrybowski1996@gmail.com</string>
+    <string name="git">github.com/RafalRybowski</string>
+    <string name="zdj">zad</string>
+    <string name="kolo">kolo</string>
+</resources>
