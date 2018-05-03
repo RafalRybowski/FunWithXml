@@ -1,0 +1,109 @@
+{
+  "genres": [
+    {
+      "name": "Alternative metal",
+      "describe": "is a rock music fusion genre that infuses heavy metal with influences from alternative rock and other genres not normally associated with metal. Alternative metal bands are often characterized by heavily downtuned, mid-paced guitar riffs, a mixture of accessible melodic vocals and harsh vocals and sometimes unconventional sounds within other heavy metal styles. The term has been in use since the 1980s, although it came into prominence in the 1990s.",
+      "year": "mid-1980s",
+      "Derivatives": [
+        {
+          "name": "Funk metal",
+          "describe": "is a subgenre of funk rock and alternative metal which infuses heavy metal music (often thrash metal) with elements of funk and punk rock. It was prevalent in the mainstream during the late 1980s and early 1990s, as part of the alternative metal movement. The genre has been described as a 'brief but extremely media-hyped stylistic fad'.",
+          "year": "Mid-1980s"
+        },
+        {
+          "name": "Nu metal",
+          "describe": "is a subgenre of alternative metal that combines elements of heavy metal music with elements of other music genres such as hip hop, alternative rock, funk, industrial and grunge. Nu metal bands have drawn elements and influences from a variety of musical styles, including multiple genres of heavy metal. Nu metal rarely features guitar solos; the genre is heavily syncopated and based on guitar riffs. Many nu metal guitarists use seven-string guitars that are down-tuned to play a heavier sound. DJs are occasionally featured in nu metal to provide instrumentation such as sampling, turntable scratching and electronic backgrounds. Vocal styles in nu metal include singing, rapping, screaming and growling. Nu metal is one of the key genres of the new wave of American heavy metal.",
+          "year": "Early to mid-1990s"
+        },
+        {
+          "name": "Rap metal",
+          "describe": "is a subgenre of rap rock and alternative metal music which combines hip hop with heavy metal. It usually consists of heavy metal guitar riffs, funk metal elements, rapped vocals and sometimes turntables.",
+          "year": "1980s"
+        }
+      ]
+    },
+    {
+      "name": "Avant-garde metal",
+      "describe": "is a subgenre of heavy metal music loosely defined by use of experimentation and innovative, avant-garde elements, including non-standard and unconventional sounds, instruments, song structures, playing styles, and vocal techniques. Avant-garde metal is influenced by progressive rock and extreme metal, particularly death metal, and is closely related to progressive metal.",
+      "year": "Mid-1980s",
+      "Derivatives": null
+    },
+    {
+      "name": "Black metal",
+      "describe": "is an extreme subgenre of heavy metal music. Common traits include fast tempos, a shrieking vocal style, heavily distorted guitars played with tremolo picking, raw (lo-fi) recording, unconventional song structures, and an emphasis on atmosphere. Artists often appear in corpse paint and adopt pseudonyms.",
+      "year": "Early to mid 1980s,",
+      "Derivatives": [
+        {
+          "name": "National Socialist black metal",
+          "describe": "is black metal music that promotes Nazism or similar ideologies. It typically melds neo-Nazi ideology with ethnic European paganism and opposition to 'foreign' religions such as Christianity, Islam and Judaism. However, some artists are Satanists or occultists, rather than pagans. NSBM is not seen as a distinct genre, but as a neo-völkisch movement within black metal. According to Mattias Gardell, NSBM musicians see this ideology as 'a logical extension of the political and spiritual dissidence inherent in black metal'.",
+          "year": "Early 1990s to present"
+        },
+        {
+          "name": "Red and Anarchist black metal",
+          "describe": " is black metal in which the artists espouse various far-left and environmentalist ideologies such as anarchism, Marxism, and green anarchism. It emerged as an amalgamation of black metal with anarchist crust punk, and typically eschews the traditional Satanic and nihilist lyrics of black metal. While some artists such as Iskra, Panopticon, Puna Terrori and Skagos overtly endorse political agendas and manifestos, others, such as Wolves in the Throne Room and some other Cascadian artists, would not explicitly associate with the red or anarchist label.",
+          "year": "late 1980s"
+        },
+        {
+          "name": "Symphonic black metal",
+          "describe": "is a subgenre of black metal that emerged in the mid to late 1990s, and incorporates symphonic and orchestral elements.",
+          "year": "Early to mid 1990s"
+        },
+        {
+          "name": "Viking metal",
+          "describe": "is a style of heavy metal music characterized by a lyrical and thematic focus on Norse mythology, Norse paganism, and the Viking Age. Viking metal is quite diverse as a musical style, to the point where some consider it more a cross-genre term than a genre, but it is typically seen as black metal with influences from Nordic folk music. Common traits include a slow-paced and heavy riffing style, anthemic choruses, use of both sung and harsh vocals, a reliance on folk instrumentation, and often the use of keyboards for atmospheric effect.",
+          "year": "Late 1980s – mid-1990s"
+        },
+        {
+          "name": "War metal",
+          "describe": "War metal, also known as war black metal or bestial black metal, is an aggressive, cacophonous and chaotic black metal style, described by Rock Hard journalist Wolf-Rüdiger Mühlmann as 'rabid' and 'hammering'.",
+          "year": "Early to mid 1980s"
+        },
+        {
+          "name": "Blackgaze metal",
+          "describe": "is a fusion genre combining elements of black metal and shoegazing. The word is a portmanteau of the names of the two genres, described by The Guardian as 'the buzz term for a new school of bands taking black metal out of the shadows and melding its blast beats, dungeon wailing and razorwire guitars with the more reflective melodies of post-rock, shoegaze and post-hardcore.'",
+          "year": "Early to mid-2000s"
+        }
+      ]
+    },
+    {
+      "name": "Christian metal",
+      "describe" : "is a form of heavy metal music usually defined by its message using song lyrics as well as the dedication of the band members to Christianity. Christian metal is typically performed by professed Christians principally for Christians who listen to heavy metal music and often produced and distributed through various Christian networks.",
+      "year": "Late 1970s",
+      "Derivatives": [
+        {
+          "name": "Unblack metal",
+          "describe" : "is a genre of heavy metal music that is stylistically close to the sound of black metal, but whose artists are either directly against the Satanism prevalent in black metal, or promote Christianity in their lyrics and imagery. Unblack metal artists are controversial within the black metal subculture, because black metal's pioneers, especially those of the Second Wave, were anti-Christian. It is also suggested that Christianity contradicts black metal's dark nature and the individualistic and misanthropic ideals of many bands.",
+          "year": "Early 1990s"
+        }
+      ]
+    },
+    {
+      "name": "Crust metal",
+      "describe": "is a form of music influenced by English punk rock and extreme metal. The style, which evolved in the mid-1980s in England, often has songs with dark and pessimistic lyrics that linger on political and social ills. The term 'crust' was coined by Hellbastard on their 1986 Ripper Crust demo.",
+      "year": "Mid-1980s",
+      "Derivatives": null
+    },
+    {
+      "name": "Death metal",
+      "describe": "is an extreme subgenre of heavy metal music. It typically employs heavily distorted and low-tuned guitars, played with techniques such as palm muting and tremolo picking, deep growling vocals, aggressive, powerful drumming featuring double kick and blast beat techniques, minor keys or atonality, abrupt tempo, key, and time signature changes and chromatic chord progressions. The lyrical themes of death metal may invoke slasher film-stylized violence, religion (sometimes Satanism), occultism, Lovecraftian horror, nature, mysticism, mythology, philosophy, science fiction, and politics, and they may describe extreme acts, including mutilation, dissection, torture, rape, cannibalism, and necrophilia.",
+      "year": "Mid-1980s",
+      "Derivatives": [
+        {
+          "name": "Blackened death metal",
+          "describe": "Blackened death metal is a style that combines death metal and black metal. Examples of blackened death metal bands are Belphegor, Behemoth, Akercocke, Dissection and Sacramentum.",
+          "year": "1990s"
+        },
+        {
+          "name": "Death 'n' roll",
+          "describe": "is the subgenre of death metal music that incorporates hard rock-inspired elements to the overall sound. The achieved effect is that of death metal's trademark combination of growled vocals and highly distorted detuned guitar riffing with elements reminiscent of 1970s hard rock and heavy metal.",
+          "year": "Early 1990s"
+        },
+        {
+          "name": "Melodic death metal",
+          "describe": "is a subgenre of death metal that employs highly melodic guitar riffs, often borrowing from traditional heavy metal. The style originated and developed in Sweden (pioneered by At the Gates, Dark Tranquillity and In Flames) and the United Kingdom (pioneered by Carcass) around 1993. The Swedish death metal scene did much to popularise the style, soon centring in the 'Gothenburg metal' scene.",
+          "year": "Early to mid-1990s"
+        }
+      ]
+    }
+  ]
+}
